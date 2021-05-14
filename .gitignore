@@ -33,6 +33,6 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.ja
 
 ##########################
-## Relatorio
+## Report
 ##########################
-Report/*
+report/
